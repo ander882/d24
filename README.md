@@ -3,20 +3,22 @@
 Doing some mental gymnastics, I was thinking about emulating regular D&D dice with only d6s.  
 But then I thought, 'People have alredy asked this online...  Yep.  But I think I done did find a new method of rolling a D20 with ONLY ONE d6.
 
-## The idea
+# The idea
 reading through what people posted online, I read one little snippet.  'Which side of the dice faces true north'.  
-Only one person that I know of thought of this.  
+Only one person that I know of thought of this.  Someone HAS to have thought about my idea before!
 
-Use the top number (normal) and the front of the die!
+## Use the top number (normal) and the front of the die!
 
-![D20](d20.png) Print out this 3X5 card.  roll the die inside your closed hands.  Pick up the die with your thumb and index finger on opposite ends.  
+Print out this 3X5 card.  roll the die inside your closed hands.  Pick up the die with your thumb and index finger on opposite ends.  
 Put the die on the square (marked 'Top #') with your thumb closest to you and your index furthest away.  Your thumb will be be the D4 (side).  
 The top number will not have a finger on it and it will be your normal roll.  
+
+![D20](d20.png)
 
 
 # Top and front number
 
-While not origional (someone HAS to have thought about this before), I have not found a person that has thought of this.  There are:
+There are:
 * 6 possible outcomes for the top (normal)
 * 4 possible outcomes for the side facing you
 * a d6 with a d4 on the front making a D24.
