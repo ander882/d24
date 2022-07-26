@@ -9,7 +9,9 @@ Only one person that I know of thought of this.
 
 # Use the top of the die (like normal) and use the side of the die that is facing you.  
 
-Print out this 3X5 card.  throw the die, close your eye pick up the die and put it on the square marked 'Top #'  The side that is facing down, will basically be a D4 depending on High, Low, Even, Odd.
+Print out this 3X5 card.  roll the die inside your closed hands.  Pick up the die with your thumb and index finger on opposite ends.  
+Put the die on the square with your thumb closest to you and your index furthest away.  Your thumb will be be the D4 (side).  
+The top number will not have a finger on it.
 ![D20](d20.png)
 
 While not origional (someone HAS to have thought about this before), I have not found a person that has thought of this.  There are:
