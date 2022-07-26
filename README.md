@@ -44,6 +44,7 @@ Or to make a 1-6 table: Top number is on the top and side number is on the side.
 * d8 (top number uses HL or EO, your choice)
 * d12
 * d24
+
 and:
 * d5 just reroll a 6
 * d10 - top d5 and HL or EO
