@@ -10,7 +10,7 @@ Only one person that I know of thought of this.  Someone HAS to have thought abo
 ## Use the top number (normal) and the front of the die!
 
 Print out this 3X5 card.  roll the die inside your closed hands.  Pick up the die with your thumb and index finger on opposite ends.  
-Put the die on the square (marked 'Top #') with your thumb closest to you and your index furthest away.  Your thumb will be be the D4 (side).  
+Put the die on the square (marked 'Top #') with your thumb closest to you and your index furthest away.  Your thumb will be be the (Front) D4.  
 The top number will not have a finger on it and it will be your normal roll.  
 
 ![D20](d20.png)
