@@ -1,4 +1,4 @@
-# Rolling a d20 with only one d6 die
+# Rolling a d20 with only ONE d6 die
 
 Doing some mental gymnastics, I was thinking about emulating regular D&D dice with only d6s.  
 But then I thought, 'People have alredy asked this online...  Yep.  But I think I done did find a new method of rolling a D20 with ONLY ONE d6.
