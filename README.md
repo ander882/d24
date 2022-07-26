@@ -21,9 +21,9 @@ While not origional (someone HAS to have thought about this before), I have not 
 Or to make a 1-6 table: Top number is on the top and side number is on the side.
 |  | 1 | 2 | 3 | 4 | 5 | 6 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 1 |   | 1 | X | X | X |   |
-| 2 | 6 |   | X | X |   | X |
-| 3 | X | 12 |   |   | X | X |
-| 4 | 16 | X |   |   | X | X |
-| 5 | 11 |   | X | X |   | X |
-| 6 |   | 17 | X | X | X |   |
+| 1 |   | 1 | 2 | 3 | 4 |   |
+| 2 | 6 |   | 7 | 8 |   | 10 |
+| 3 | X | 12 |   |   | X | 5 |
+| 4 | 16 | X |   |   | 9 | X |
+| 5 | 11 |   | 13 | 14 |   | 15 |
+| 6 |   | 17 | 18 | 19 | 20 |   |
