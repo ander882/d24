@@ -47,7 +47,7 @@ Or to make a 1-6 table: Top number is on the top and side number is on the side.
 
 and:
 * d5 just reroll a 6
-* d10 - top d5 and HL or EO
-* d20 - top d5 and HL and EO
+* d10 - above d5 and +5 on High
+* d20 - above d10 and +10 on Even
 
 done.
