@@ -50,4 +50,6 @@ Or to make a 1-6 table: Top number is on the top and side number is on the side.
 * d10 - above d5 and +5 on Even (front)
 * d20 - above d10 and +10 on High (front)
 
+![D20-5](d20-5.png)
+
 done.
