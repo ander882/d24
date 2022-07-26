@@ -29,9 +29,14 @@ Or to make a 1-6 table: Top number is on the top and side number is on the side.
 | 6 |   | 17 | 18 | 19 | 20 |   |
 
 
-# D30 more fun!
-Instead of a High and Low, try this:
-* 1,2 = Low
-* 3,4 = Mid
-* 5,6 = High
-* Also a D15!  Or a proper D5....  Hmmm.
+# Back to Mental gymnastics...
+24 has divisors of 2, 2, 2, 3.  So with one die we can:
+* d2
+* d3
+* d4
+* d6
+* d8
+* d12
+* d24
+
+done.
