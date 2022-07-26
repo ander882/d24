@@ -17,6 +17,7 @@ While not origional (someone HAS to have thought about this before), I have not 
 * 6 possible outcomes for the top (normal)
 * 4 possible outcomes for the side facing you
 * a d6 with a d4 on the sides making a D24.
+* If you roll a (1,3), (2,4), (5,3), (6,4), re-roll.
 
 Or to make a 1-6 table: Top number is on the top and side number is on the side.
 |  | 1 | 2 | 3 | 4 | 5 | 6 |
