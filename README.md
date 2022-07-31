@@ -52,4 +52,8 @@ Or to make a 1-6 table: Top number is on the top and side number is on the side.
 
 ![D20-5](d20-5.png)
 
+##  Nope.  But close
+
+This does not work as 2,5 do not meet the criteria.  You can say the (low even and low odd) and (high even and high odd) but it is extra work.
+
 done.
