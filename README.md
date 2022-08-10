@@ -49,11 +49,23 @@ Or to make a 1-6 table: Top number is on the top and side number is on the side.
 * d5 just reroll a 6
 * d10 - above d5 and +5 on Even (front)
 * d20 - above d10 and +10 on High (front)
+* Does not work with 2 or 5.  Both odds are low and both evens are high.
+* * But if you use the 3 as a high odd and a 4 as a low even, it works.
 
 ![D20-5](d20-5.png)
 
 ##  Nope.  But close
 
 This does not work as 2,5 do not meet the criteria.  You can say the (low even and low odd) and (high even and high odd) but it is extra work.
+
+Or to make a 1-5 table: Top number is on the top and front number is on the side.
+|  | 1 | 2 | 3 | 4 | 5 |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| 1 |   | 2 | 3 | 4 | 5 |
+| 2 | 6 |   | 7 | 9 |   |
+| 3 | 1 | 12 |   |   | 10 |
+| 4 | 16 | 7 |   |   | 15 |
+| 5 | 11 |   | 13 | 14 |   |
+| 6 |   | 17 | 18 | 19 | 20 |
 
 done.
